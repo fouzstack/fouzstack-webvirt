@@ -1,3 +1,4 @@
+
 # WebVirt
 
 **Carga tu SPA (React, Vue, Angular, Svelte, etc.) en Android WebView desde assets con 3 líneas de código.**
@@ -255,4 +256,4 @@ Headers HTTP correctos Automáticos
 
 ---
 
-¿Encontraste un bug o tienes una sugerencia? ¡Abre un issue en el repositorio!
+
